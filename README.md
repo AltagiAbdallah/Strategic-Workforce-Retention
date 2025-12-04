@@ -3,7 +3,6 @@ Workforce retention analysis leveraging Python &amp; Power BI to reduce a 16.1% 
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Project Overview
 High employee turnover poses a significant financial and operational risk to organizations. This project utilizes the **IBM HR Analytics dataset** to identify key churn drivers, visualize workforce demographics, and implement a **"Flight Risk" predictive flag** to help HR proactively retain talent.
